@@ -1,10 +1,7 @@
-﻿using System;
-using io.fusionauth;
+﻿using io.fusionauth;
 using io.fusionauth.domain;
 using io.fusionauth.domain.api;
 using io.fusionauth.domain.api.user;
-using System.Collections.Generic;
-using Newtonsoft.Json;
 using io.fusionauth.domain.oauth2;
 using io.fusionauth.domain.search;
 
