@@ -1,3 +1,6 @@
+# Archived
+A new verion of this guide exists at [fusionauth-quickstart-dotnet-web](https://github.com/FusionAuth/fusionauth-quickstart-dotnet-web).
+
 # Example ASP.NET Core web application
 
 An ASP.NET Core web application using FusionAuth as the identity server.
